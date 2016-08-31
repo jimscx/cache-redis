@@ -1,2 +1,2 @@
 # cache-redis
-### 常用redis方法分装
+### 常用redis方法封装
